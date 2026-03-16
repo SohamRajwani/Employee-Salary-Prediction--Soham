@@ -103,7 +103,7 @@ Employee-Salary-Prediction
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/Employee-Salary-Prediction.git
+git clone https://github.com/SohamRajwani/Employee-Salary-Prediction--Soham.git
 
 ### 2. Install required libraries
 
